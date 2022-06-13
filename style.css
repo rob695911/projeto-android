@@ -127,13 +127,13 @@ footer > p {
 }
 main picture > img {
     max-width: 600px;
-    min-width: 280px;
+    min-width: 300px;
     display: block;
     text-align: center;
 }
 main picture.irina {
     max-width: 500px;
     min-width: 280px;
-    display: block;
-    text-align: center;
+    
+    margin: auto;
 }
